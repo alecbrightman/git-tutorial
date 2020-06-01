@@ -1,5 +1,6 @@
-# Git and Github tutoral
+# Git and Github tutorial
 
 Change this file to add your name below:
-IM COOL
+
+- IM COOL
 
