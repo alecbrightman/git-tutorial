@@ -1,6 +1,5 @@
 # Git and Github tutorial
 
-Change this file to add your name below:
+Change this file to add your name (and any other text) below:
 
-- IM COOL
-- Mikey uwu
+- Michael!
